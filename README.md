@@ -1,3 +1,5 @@
+# 3p-dictionaries
+
 The .oxt files in this repository are Open Office extension files that
 provide spell checking and hyphenation dictionaries compatible with
 the hunspell library used in the viewer.  The canonical repository for
