@@ -12,7 +12,3 @@ dictionaries, ensure that the licenses are compatible with inclusion
 in the Linden Lab (commercial) viewer.
 
 TODO: add a URL to a wiki page on how to download and install dictionaries.
-
-
-
-
