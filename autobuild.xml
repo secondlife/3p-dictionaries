@@ -15,8 +15,6 @@
       <string>LICENSES/dictionaries.txt</string>
       <key>name</key>
       <string>dictionaries</string>
-      <key>use_scm_version</key>
-      <boolean>true</boolean>
       <key>platforms</key>
       <map>
         <key>common</key>
@@ -53,6 +51,8 @@
           <string>common</string>
         </map>
       </map>
+      <key>version_file</key>
+      <string>VERSION.txt</string>
     </map>
     <key>type</key>
     <string>autobuild</string>
