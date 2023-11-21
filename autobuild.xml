@@ -16,7 +16,7 @@
       <key>name</key>
       <string>dictionaries</string>
       <key>use_scm_version</key>
-      <boolean>true</boolean>
+      <boolean>false</boolean>
       <key>platforms</key>
       <map>
         <key>common</key>
